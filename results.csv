@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1716291597195,220,Add HTTP request,200,OK,Thread Group 1-1,text,true,,2683,344,1,1,https://reqres.in/api/users,33,0,21
+1716291597195,35,Add HTTP request-0,301,Moved Permanently,Thread Group 1-1,text,true,,785,224,1,1,http://reqres.in/api/users,33,0,21
+1716291597231,184,Add HTTP request-1,200,OK,Thread Group 1-1,text,true,,1898,120,1,1,https://reqres.in/api/users,184,0,170
+1716291602146,75,Add HTTP request,200,OK,Thread Group 1-2,text,true,,2683,344,1,1,https://reqres.in/api/users,26,0,4
+1716291602146,26,Add HTTP request-0,301,Moved Permanently,Thread Group 1-2,text,true,,785,224,1,1,http://reqres.in/api/users,26,0,4
+1716291602172,49,Add HTTP request-1,200,OK,Thread Group 1-2,text,true,,1898,120,1,1,https://reqres.in/api/users,49,0,35
+1716291607162,80,Add HTTP request,200,OK,Thread Group 1-3,text,true,,2691,344,1,1,https://reqres.in/api/users,35,0,4
+1716291607162,35,Add HTTP request-0,301,Moved Permanently,Thread Group 1-3,text,true,,793,224,1,1,http://reqres.in/api/users,35,0,4
+1716291607197,45,Add HTTP request-1,200,OK,Thread Group 1-3,text,true,,1898,120,1,1,https://reqres.in/api/users,45,0,17
+1716291612159,84,Add HTTP request,200,OK,Thread Group 1-4,text,true,,2685,344,1,1,https://reqres.in/api/users,24,0,4
+1716291612159,24,Add HTTP request-0,301,Moved Permanently,Thread Group 1-4,text,true,,787,224,1,1,http://reqres.in/api/users,24,0,4
+1716291612186,57,Add HTTP request-1,200,OK,Thread Group 1-4,text,true,,1898,120,1,1,https://reqres.in/api/users,57,0,37
+1716291617141,84,Add HTTP request,200,OK,Thread Group 1-5,text,true,,2687,344,1,1,https://reqres.in/api/users,29,0,21
+1716291617141,29,Add HTTP request-0,301,Moved Permanently,Thread Group 1-5,text,true,,789,224,1,1,http://reqres.in/api/users,29,0,21
+1716291617171,54,Add HTTP request-1,200,OK,Thread Group 1-5,text,true,,1898,120,1,1,https://reqres.in/api/users,52,0,18
+1716291622157,122,Add HTTP request,200,OK,Thread Group 1-6,text,true,,2683,344,1,1,https://reqres.in/api/users,73,0,8
+1716291622157,73,Add HTTP request-0,301,Moved Permanently,Thread Group 1-6,text,true,,785,224,1,1,http://reqres.in/api/users,73,0,8
+1716291622231,48,Add HTTP request-1,200,OK,Thread Group 1-6,text,true,,1898,120,1,1,https://reqres.in/api/users,47,0,23
+1716291627139,68,Add HTTP request,200,OK,Thread Group 1-7,text,true,,2683,344,1,1,https://reqres.in/api/users,22,0,3
+1716291627139,22,Add HTTP request-0,301,Moved Permanently,Thread Group 1-7,text,true,,785,224,1,1,http://reqres.in/api/users,22,0,3
+1716291627162,45,Add HTTP request-1,200,OK,Thread Group 1-7,text,true,,1898,120,1,1,https://reqres.in/api/users,45,0,20
+1716291632134,73,Add HTTP request,200,OK,Thread Group 1-8,text,true,,2689,344,1,1,https://reqres.in/api/users,27,0,11
+1716291632134,27,Add HTTP request-0,301,Moved Permanently,Thread Group 1-8,text,true,,791,224,1,1,http://reqres.in/api/users,27,0,11
+1716291632164,43,Add HTTP request-1,200,OK,Thread Group 1-8,text,true,,1898,120,1,1,https://reqres.in/api/users,42,0,23
+1716291637136,104,Add HTTP request,200,OK,Thread Group 1-9,text,true,,2689,344,1,1,https://reqres.in/api/users,27,0,6
+1716291637136,27,Add HTTP request-0,301,Moved Permanently,Thread Group 1-9,text,true,,791,224,1,1,http://reqres.in/api/users,27,0,6
+1716291637164,76,Add HTTP request-1,200,OK,Thread Group 1-9,text,true,,1898,120,1,1,https://reqres.in/api/users,76,0,47
+1716291642136,73,Add HTTP request,200,OK,Thread Group 1-10,text,true,,2689,344,1,1,https://reqres.in/api/users,26,0,7
+1716291642136,26,Add HTTP request-0,301,Moved Permanently,Thread Group 1-10,text,true,,791,224,1,1,http://reqres.in/api/users,26,0,7
+1716291642163,46,Add HTTP request-1,200,OK,Thread Group 1-10,text,true,,1898,120,1,1,https://reqres.in/api/users,46,0,27
+1716291647149,60,Add HTTP request,200,OK,Thread Group 1-11,text,true,,2681,344,1,1,https://reqres.in/api/users,21,0,7
+1716291647149,21,Add HTTP request-0,301,Moved Permanently,Thread Group 1-11,text,true,,783,224,1,1,http://reqres.in/api/users,21,0,7
+1716291647171,38,Add HTTP request-1,200,OK,Thread Group 1-11,text,true,,1898,120,1,1,https://reqres.in/api/users,38,0,16
+1716291652134,75,Add HTTP request,200,OK,Thread Group 1-12,text,true,,2679,344,1,1,https://reqres.in/api/users,15,0,3
+1716291652134,15,Add HTTP request-0,301,Moved Permanently,Thread Group 1-12,text,true,,781,224,1,1,http://reqres.in/api/users,15,0,3
+1716291652150,59,Add HTTP request-1,200,OK,Thread Group 1-12,text,true,,1898,120,1,1,https://reqres.in/api/users,59,0,31
+1716291657148,62,Add HTTP request,200,OK,Thread Group 1-13,text,true,,2687,344,1,1,https://reqres.in/api/users,15,0,4
+1716291657148,15,Add HTTP request-0,301,Moved Permanently,Thread Group 1-13,text,true,,789,224,1,1,http://reqres.in/api/users,15,0,4
+1716291657164,46,Add HTTP request-1,200,OK,Thread Group 1-13,text,true,,1898,120,1,1,https://reqres.in/api/users,46,0,31
+1716291662146,134,Add HTTP request,200,OK,Thread Group 1-14,text,true,,2685,344,1,1,https://reqres.in/api/users,24,0,7
+1716291662146,24,Add HTTP request-0,301,Moved Permanently,Thread Group 1-14,text,true,,787,224,1,1,http://reqres.in/api/users,24,0,7
+1716291662171,109,Add HTTP request-1,200,OK,Thread Group 1-14,text,true,,1898,120,1,1,https://reqres.in/api/users,109,0,59
+1716291667144,103,Add HTTP request,200,OK,Thread Group 1-15,text,true,,2695,344,1,1,https://reqres.in/api/users,62,0,4
+1716291667144,62,Add HTTP request-0,301,Moved Permanently,Thread Group 1-15,text,true,,797,224,1,1,http://reqres.in/api/users,62,0,4
+1716291667206,41,Add HTTP request-1,200,OK,Thread Group 1-15,text,true,,1898,120,1,1,https://reqres.in/api/users,41,0,28
+1716291672142,76,Add HTTP request,200,OK,Thread Group 1-16,text,true,,2691,344,1,1,https://reqres.in/api/users,21,0,4
+1716291672142,21,Add HTTP request-0,301,Moved Permanently,Thread Group 1-16,text,true,,793,224,1,1,http://reqres.in/api/users,21,0,4
+1716291672164,54,Add HTTP request-1,200,OK,Thread Group 1-16,text,true,,1898,120,1,1,https://reqres.in/api/users,53,0,30
+1716291677143,82,Add HTTP request,200,OK,Thread Group 1-17,text,true,,2685,344,1,1,https://reqres.in/api/users,31,0,3
+1716291677143,31,Add HTTP request-0,301,Moved Permanently,Thread Group 1-17,text,true,,787,224,1,1,http://reqres.in/api/users,31,0,3
+1716291677175,50,Add HTTP request-1,200,OK,Thread Group 1-17,text,true,,1898,120,1,1,https://reqres.in/api/users,49,0,25
+1716291682148,61,Add HTTP request,200,OK,Thread Group 1-18,text,true,,2685,344,1,1,https://reqres.in/api/users,18,0,4
+1716291682148,18,Add HTTP request-0,301,Moved Permanently,Thread Group 1-18,text,true,,787,224,1,1,http://reqres.in/api/users,18,0,4
+1716291682169,40,Add HTTP request-1,200,OK,Thread Group 1-18,text,true,,1898,120,1,1,https://reqres.in/api/users,39,0,19
+1716291687145,50,Add HTTP request,200,OK,Thread Group 1-19,text,true,,2679,344,1,1,https://reqres.in/api/users,16,0,4
+1716291687145,16,Add HTTP request-0,301,Moved Permanently,Thread Group 1-19,text,true,,781,224,1,1,http://reqres.in/api/users,16,0,4
+1716291687161,34,Add HTTP request-1,200,OK,Thread Group 1-19,text,true,,1898,120,1,1,https://reqres.in/api/users,30,0,17
+1716291692143,75,Add HTTP request,200,OK,Thread Group 1-20,text,true,,2685,344,1,1,https://reqres.in/api/users,30,0,6
+1716291692143,30,Add HTTP request-0,301,Moved Permanently,Thread Group 1-20,text,true,,787,224,1,1,http://reqres.in/api/users,30,0,6
+1716291692174,44,Add HTTP request-1,200,OK,Thread Group 1-20,text,true,,1898,120,1,1,https://reqres.in/api/users,43,0,19
